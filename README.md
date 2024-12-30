@@ -1,6 +1,6 @@
 # student-database
 
-I created a small database of students in the `mydb.db` file. The students table is the only table currently in the database, but I plan to add more tables in the near future.
+I created a small database of students in the `mydb.db` file. The **students** table is the only table currently in the database, but I plan to add more tables in the near future.
 
 The primary purpose of this project is for me to implement my knowledge of sql and to collaborate with other data analysts looking to do the same.
 
@@ -10,8 +10,8 @@ If you'd like to collaborate with me on this repository, then simply follow the 
 1. Clone down the repository
 2. Open in VS Code
 3. Make sure you have the reccomended VS Code Extensions installed
-  1. SQLite (alexcvzz.vscode-sqlite)
-  2. SQLite3 Editor (yy0931.vscode-sqlite3-editor)
+    - SQLite (alexcvzz.vscode-sqlite)
+    - SQLite3 Editor (yy0931.vscode-sqlite3-editor)
 
   If you need to install these extensions, make sure you reload your window in VS Code after the installations are complete. 
     1. Open the command pallette in VS Code **command - shift - p**
@@ -36,6 +36,8 @@ If you'd like to contribute to this project, that would be awesome! Here's some 
   - Write more queries for the **students** table. The more complex the better! Just make sure to identify the goal of each query in the comments.
   - Create a new table(s) and add it to the database `mydb.db`
   - Write queries that involve joining multiple tables within the database.
+
+However you can contribute will be greatly appreciated. Just **submit a pull request** once you're done. 
 
 
 
