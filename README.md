@@ -13,9 +13,9 @@ If you'd like to collaborate with me on this repository, then simply follow the 
     - SQLite (alexcvzz.vscode-sqlite)
     - SQLite3 Editor (yy0931.vscode-sqlite3-editor)
 
-  If you need to install these extensions, make sure you reload your window in VS Code after the installations are complete. 
-    1. Open the command pallette in VS Code **command - shift - p**
-    2. Type 'reload' and select **Developer: Reload Window**
+If you need to install these extensions, make sure you reload your window in VS Code after the installations are complete. 
+  1. Open the command pallette in VS Code **command - shift - p**
+  2. Type 'reload' and select **Developer: Reload Window**
 
 ## Usage
 Once you have completed the set up steps, you can see the work I've done so far.
