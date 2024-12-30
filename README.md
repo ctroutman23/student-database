@@ -35,7 +35,8 @@ If you'd like to contribute to this project, that would be awesome! Here's some 
   - Add more records to the **students** table
   - Write more queries for the **students** table. The more complex the better! Just make sure to identify the goal of each query in the comments.
   - Create a new table(s) and add it to the database `mydb.db`
-  - Write queries that involve joining multiple tables within the database.
+  - Write queries that involve joining multiple tables within the database (joins)
+  - Utilize SQL window functions
 
 However you can contribute will be greatly appreciated. Just **submit a pull request** once you're done. 
 
