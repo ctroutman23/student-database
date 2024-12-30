@@ -6,4 +6,27 @@
 -- grade_level, attendance, gpa)
 -- VALUES (1, "Joe Miller", 17, "M", 11, 10, 3.4 );
 
-SELECT * FROM students;
+-- I inserted the rest of the records
+-- directly into mydb.db through the GUI.
+
+-- Average GPA for all students
+SELECT AVG(gpa) FROM students;
+
+-- Students with perfect attendance
+SELECT student_name, attendance 
+FROM students
+WHERE students.attendance = 10;
+
+-- Total number of students
+SELECT COUNT(*) FROM students;
+
+-- Average GPA by grade level
+SELECT grade_level, AVG(gpa) 
+FROM students
+GROUP BY grade_level
+ORDER BY AVG(gpa) DESC;
+
+
+
+
+
